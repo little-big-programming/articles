@@ -8,10 +8,12 @@ List of topics to be written.
 * [I](#i)
 	* [Introduction to Gitlab Community Edition for Startups](#introduction-to-gitlab-community-edition-for-startups)
 * [R](#r)
+  * [React Patterns](#react-patterns)
 	* [React Performance Tuning](#react-performance-tuning)
 	* [React for Game Programming](#react-for-game-programming)
 * [S](#s)
 	* [Setting React in Rails Way with Create React App](#setting-react-in-rails-way-with-create-react-app)
+	* [State Management for React](#state-management-for-react)
 
 ## C
 
@@ -23,6 +25,8 @@ List of topics to be written.
 
 ## R
 
+### React Patterns
+
 ### React Performance Tuning
 
 ### React for Game Programming
@@ -30,3 +34,5 @@ List of topics to be written.
 ## S
 
 ### Setting React in Rails Way with Create React App
+
+### State Management for React
